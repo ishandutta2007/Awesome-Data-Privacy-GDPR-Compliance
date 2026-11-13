@@ -1,6 +1,6 @@
 # Awesome-Data-Privacy-GDPR-Compliance
 
-# Top Data Privacy & GDPR Compliance Ecosystem
+## Top Data Privacy & GDPR Compliance Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Consent Management, Data Subject Requests & Privacy Governance*  
